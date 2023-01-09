@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong>Previous repository with username Shreyanth28 is deleted and not available anymore. Trying to recover the 102 respositories linked to that account. Please bare the inconvenience</strong>
+  <strong>Previous repository with username Shreyanth28 is deleted and not available anymore. Trying to recover the 102 repositories linked to that account. Please bare the inconvenience</strong>
 </p>
 
 <img src="https://github.com/Shreyanth07/Shreyanth07/blob/main/memojis/IMG_1044-removebg-preview.png" align="right" height="225" />
