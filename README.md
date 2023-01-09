@@ -30,15 +30,6 @@
 <img src="https://github.com/Shreyanth07/Shreyanth07/raw/main/everyday.png" height="150"/>
 <hr>
 
-### Portfolio | Resume | Freelance work | Certifications-1 | Certifications-2 | Internship </br>
-&nbsp;&nbsp;&nbsp; <a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-portfolio-search-itim2101-lineal-color-itim2101.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/resume.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/~019b7b07a7df7176fe/" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-certificate-online-education-flaticons-lineal-color-flat-icons-2.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-certificate-online-education-flaticons-lineal-color-flat-icons.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-internship-job-search-flaticons-lineal-color-flat-icons-2.png" height="50" width="50" /></a>
-<hr>
-
 ### My Github Stats 📊
 
 <a href="https://github.com/Shreyanth07">
