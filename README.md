@@ -30,6 +30,15 @@
 <img src="https://github.com/Shreyanth07/Shreyanth07/raw/main/everyday.png" height="150"/>
 <hr>
 
+### Portfolio | Resume | Freelance work | Certifications-1 | Certifications-2 | Internship </br>
+&nbsp;&nbsp;&nbsp; <a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-portfolio-search-itim2101-lineal-color-itim2101.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/resume.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~019b7b07a7df7176fe/" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-certificate-online-education-flaticons-lineal-color-flat-icons-2.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-certificate-online-education-flaticons-lineal-color-flat-icons.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-internship-job-search-flaticons-lineal-color-flat-icons-2.png" height="50" width="50" /></a>
+<hr>
+
 ### My Github Stats 📊
 
 <a href="https://github.com/Shreyanth07">
@@ -108,13 +117,12 @@
 
 [![Shreyanth's trophies](https://github-profile-trophy.vercel.app/?username=Shreyanth07&theme=onedark&column=7&no-bg=true&no-frame=true&rank=-?)](https://github.com/Shreyanth07/github-profile-trophy)
 <img src="https://github.com/Shreyanth07/Shreyanth07/blob/main/memojis/IMG_1042-removebg-preview.png" align="right" height="200" />
-### Contact me through email, Linkedin, Kaggle or Upwork
+### Contact me through email, Linkedin or Kaggle
 
 <p align="left">
-   <a href="mailto:shreyanth0810@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"  height="60" width="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:shreyanth0810@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"  height="60" width="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sb28" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png"  height="60" width="60" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg"  height="46" width="46" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/~019b7b07a7df7176fe/" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png" height="50" width="50" /></a>
+<a href=""><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg"  height="46" width="46" /></a> 
 
 <!---  <a href="https://www.instagram.com/"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"  height="60" width="60" /></a> &nbsp;&nbsp; -->
 <!---    <a href="https://www.snapchat.com/add/"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/snapchat.svg"  height="50" width="50" /></a> &nbsp;&nbsp; -->
