@@ -14,6 +14,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer|Freelance+Software+Developer|Research+Assistant%20;Competitive+Programmer|Product+Development|Data+Science%20;Data+is+the+new+oil&center=true&width=680&height=45"></a>
 </p>
 
+<p align="center">
+  <strong>Previous repository with username Shreyanth28 is deleted and not available anymore. Trying to recover the 102 respositories linked to that account. Please bare the inconvenience</strong>
+</p>
+
 <img src="https://github.com/Shreyanth07/Shreyanth07/blob/main/memojis/IMG_1044-removebg-preview.png" align="right" height="225" />
 
 ### A Data Science and Machine learning enthusiast
