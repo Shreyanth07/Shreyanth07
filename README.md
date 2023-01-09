@@ -18,7 +18,7 @@
   <strong>Previous repository with username Shreyanth28 is deleted and not available anymore. Trying to recover the 102 repositories linked to that account. Please bare the inconvenience</strong>
 </p>
 
-<img src="https://github.com/Shreyanth07/Shreyanth07/blob/main/memojis/IMG_1044-removebg-preview.png" align="right" height="225" />
+<img src="./memojis/IMG_1044-removebg-preview.png" align="right" height="225" />
 
 ### A Data Science and Machine learning enthusiast
 <!-- <br>
@@ -31,7 +31,7 @@
 - ⚡ -->
 
 #### My Everyday routine includes :
-<img src="https://github.com/Shreyanth07/Shreyanth07/raw/main/everyday.png" height="150"/>
+<img src="everyday.png" height="150"/>
 <hr>
 
 ### My Github Stats 📊
@@ -46,7 +46,7 @@
 <!-- [![Shreyanth Stats](https://github-readme-streak-stats.herokuapp.com?user=Shreyanth07&theme=highcontrast)](https://github.com/Shreyanth07) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Shreyanth's github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shreyanth07&layout=compact&langs_count=8&theme=highcontrast)](https://github.com/Shreyanth07) -->
 <hr>
 
-<img src="https://github.com/Shreyanth07/Shreyanth07/blob/main/memojis/IMG_1046-removebg-preview.png" align="right" height="225" />
+<img src="./memojis/IMG_1046-removebg-preview.png" align="right" height="225" />
 
 ### Organizations 🏢
 <details>
@@ -111,13 +111,13 @@
 ### GitHub Trophies 🏆
 
 [![Shreyanth's trophies](https://github-profile-trophy.vercel.app/?username=Shreyanth07&theme=onedark&column=7&no-bg=true&no-frame=true&rank=-?)](https://github.com/Shreyanth07/github-profile-trophy)
-<img src="https://github.com/Shreyanth07/Shreyanth07/blob/main/memojis/IMG_1042-removebg-preview.png" align="right" height="200" />
+<img src="./memojis/IMG_1042-removebg-preview.png" align="right" height="200" />
 ### Contact me through email, Linkedin, Kaggle or Upwork
 
 <p align="left">
    <a href="mailto:shreyanth0810@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"  height="60" width="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sb28" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png"  height="60" width="60" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg"  height="46" width="46" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img align="center" src="kaggle.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~019b7b07a7df7176fe/" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png" height="50" width="50" /></a>
 
 </p>
