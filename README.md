@@ -93,7 +93,7 @@
 <details>
   <summary>Please Expand</summary>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Shreyanth07&theme=react-dark">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shreyanth07&custom_title=My%20Active%20Contribution%20Graph&hide_border=true&theme=high-contrast">
 
 ### 3-D model for 2020 & 2021
 
