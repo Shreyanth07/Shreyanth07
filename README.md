@@ -101,12 +101,10 @@
 
 ### 3-D model for 2020, 2021 & 2022
 
-<img src="https://user-images.githubusercontent.com/70295717/190898811-5ab4ca92-fd9b-4501-91bb-3dfa1b63ab10.PNG" align="left" height="250" />
-<img src="https://user-images.githubusercontent.com/70295717/190898797-e23f23d1-7b19-409b-b1a3-b937512e17c9.PNG" align="right" height="250" /><br>
-<img src="https://user-images.githubusercontent.com/70295717/212279149-c15d4445-c7fc-426e-931e-6c14443d67f1.png" align="center" height="250" />
+<img src="https://user-images.githubusercontent.com/70295717/190898811-5ab4ca92-fd9b-4501-91bb-3dfa1b63ab10.PNG" height="220" />
+<img src="https://user-images.githubusercontent.com/70295717/190898797-e23f23d1-7b19-409b-b1a3-b937512e17c9.PNG" height="220" />
+<img src="https://user-images.githubusercontent.com/70295717/212279149-c15d4445-c7fc-426e-931e-6c14443d67f1.png" height="220" />
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 </details>
 <hr>
  
